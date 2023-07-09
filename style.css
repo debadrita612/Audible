@@ -109,11 +109,8 @@ nav ul a {
     padding: 0 0 0 7px;
 }
 
-.timestamp {
+.songItemPlay {
     margin: 0 23px;
-}
-
-.timestamp i {
     cursor: pointer;
 }
 
